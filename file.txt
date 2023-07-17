@@ -5,3 +5,6 @@ four
 this is my file
 we use in git
 sKJHKJDB
+sushma
+kumari
+kaushik
